@@ -1,4 +1,6 @@
 # GitHub API Search
+<img src='./src/gif/searchapi.gif'>
+
 Esse projeto foi um desafio proposto no módulo de JavaScript Avançado do curso *DevQuest* - Dev Em Dobro. O desafio tinha o intuito de pôr em prática os ensinamentos passados no módulo citado, sobretudo em relação ao consumo de *API* - não que isso já não estivesse sendo feito, mas desta vez com o formato de uma avaliação -, utilizando-se de um projeto iniciado em aula que consumia a *API* do *GitHub*. 
 
 ## Linguagens utilizadas
